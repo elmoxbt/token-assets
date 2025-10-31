@@ -1,0 +1,16 @@
+{
+  "name": "elmoxbt",
+  "symbol": "ELM",
+  "description": "Developer token for elmoxbt, a blockchain developer and enthusiast.",
+  "image": "idk.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Token"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Developer Token"
+    }
+  ]
+}
