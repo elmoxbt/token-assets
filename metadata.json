@@ -2,7 +2,7 @@
   "name": "elmoxbt",
   "symbol": "ELM",
   "description": "Developer token for elmoxbt, a blockchain developer and enthusiast.",
-  "image": "idk.png",
+  "image": "https://raw.githubusercontent.com/elmoxbt/token-assets/refs/heads/main/elmo.png",
   "attributes": [
     {
       "trait_type": "Item",
